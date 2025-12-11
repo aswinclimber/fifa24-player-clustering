@@ -20,7 +20,7 @@ So we let K-Means **discover the structure** automatically.
 
 ##  **Steps Followed**
 
-### ** Data Cleaning**
+### **Data Cleaning**
 
 * Loaded FIFA dataset
 * Removed unnecessary columns
