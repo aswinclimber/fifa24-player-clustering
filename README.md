@@ -29,13 +29,13 @@ So we let K-Means **discover the structure** automatically.
 
 
 
-### ** Feature Selection**
+### **Feature Selection**
 
 Selected only numeric attributes useful for clustering
 (e.g., Pace, Shooting, Passing, Dribbling, Physical etc).
 
 
-### ** Dimensionality Reduction (PCA)**
+### **Dimensionality Reduction (PCA)**
 
 * FIFA dataset has 100+ features
 * PCA reduces it to 2 components
@@ -45,13 +45,13 @@ Selected only numeric attributes useful for clustering
 
 ---
 
-### ** Run the AI Model (K-Means)**
+### **Run the AI Model (K-Means)**
 
 K-Means is an **unsupervised ML model** that groups similar items.
 We tested different values of **k**:
 
 
-### ** Visualization**
+### **Visualization**
 
 Plotted:
 
